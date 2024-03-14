@@ -1,5 +1,6 @@
 package com.example.carecompanion;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
